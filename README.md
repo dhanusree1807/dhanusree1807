@@ -7,9 +7,9 @@
 
 # 💭 About Me:
 "Hello there!I'm a B.Tech student specializing in Information Technology,with a keen interest in Web Development domain. I love to explore new things and new technologies or skills.<br>
-.🧠 I'm learning backend development<br>
-.✉️ Here to reach me:anandhakumardhanusree@gmail.com<br>
-.🖖Fun fact:I love Drawing and Travelling
+.🧠 I'm learning backend development.<br>
+.✉️ Here to reach me: anandhakumardhanusree@gmail.com.<br>
+.🖖Fun fact:I love Drawing and Travelling.
 
 ## 🔗 Find Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhanusree_3105) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanusreea) 
