@@ -6,8 +6,9 @@
 
 
 # 💭 About Me:
-"Hello there!I'm a B.Tech student specializing in Information Technology,with a keen interest in Web Development domain. I love to explore new things and new technologies or skills.
+"Hello there!I'm a B.Tech student specializing in Information Technology,with a keen interest in Web Development domain. I love to explore new things and new technologies or skills.<br>
 .🧠 I'm learning backend development<br>
+.✉️ Here to reach me:anandhakumardhanusree@gmail.com<br>
 .🖖Fun fact:I love Drawing and Travelling
 
 ## 🔗 Find Me:
